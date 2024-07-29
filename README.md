@@ -37,6 +37,6 @@ Se você está interessado em trabalhar comigo ou colaborar em projetos, fique �
 
 lucasdevv02@gmail.com
 
-Estou animado para fazer parte da comunidade GitHub e continuar minha jornada de aprendizado em desenvolvimento backend Python. Vamos nos conectar e criar coisas incríveis juntos!
+Estou animado para fazer parte da comunidade GitHub e continuar minha jornada de aprendizado em desenvolvimento bac-kend Python. Vamos nos conectar e criar coisas incríveis juntos!
 
 Obrigado por visitar meu perfil! 😊
